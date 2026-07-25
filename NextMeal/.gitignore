@@ -1,0 +1,13 @@
+# Extracted/temporary files
+.docx_extract/
+.docx_extract.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
