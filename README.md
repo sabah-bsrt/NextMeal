@@ -260,8 +260,6 @@ notification data.
   PWA                                 `@ducanh2912/next-pwa`,
                                       Workbox/service-worker support
 
-  -----------------------------------------------------------------------
-
 ------------------------------------------------------------------------
 
 
@@ -308,25 +306,6 @@ user-specific records and privileged administrative operations.
   quantities                          conversion logic so quantities
                                       entered in different supported
                                       units can be compared consistently.
-
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## Future Work
-
-Potential improvements identified during the project include:
-
--   Introduce AI-assisted features while retaining reliable,
-    user-provided inventory and expiration data.
--   Complete or extend external notification delivery integrations, such
-    as email or SMS.
--   Improve offline data handling and synchronization.
--   Expand automated testing across frontend, API, and recommendation
-    workflows.
--   Add deeper personalization based on user preferences.
--   Improve the "Use it" workflow to account for different serving
-    sizes.
 
 ------------------------------------------------------------------------
 
