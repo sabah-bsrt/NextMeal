@@ -33,12 +33,6 @@ The project is being developed with a modern React/Next.js frontend and a scalab
 - Save favorite recipes
 - Search recipes
 
-### AI Features (Planned)
-- AI meal recommendations
-- Smart ingredient matching
-- Grocery list generation
-- Personalized suggestions
-
 ---
 
 # 🏗 Project Structure
